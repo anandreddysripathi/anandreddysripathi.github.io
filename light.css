@@ -1,0 +1,25 @@
+:root{
+    --maincolor:#cfccca;
+    --secondarycolor:#0d0d0e; 
+
+    --bordercolor:#164d56; 
+
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
+    --themedotborder:#fff; 
+    --previewBg:rgb(29,21,32,0.8);
+    --previewshadow:#202020 ;
+
+    
+}
+h1{
+    color:rgba(3, 3, 3, 0.541);
+}
+#tech
+{
+    background-color: #2e2a2a80;
+}
+
+h2{
+    color: white;
+}

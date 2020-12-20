@@ -1,0 +1,18 @@
+:root{
+    --maincolor:#530d13;
+    --secondarycolor:#0d0d0e;
+
+    --bordercolor:#161914; 
+
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
+    --themedotborder:#fff; 
+    --previewBg:rgb(53, 50, 50); 
+    --previewshadow:rgb(53, 50, 50);  
+
+}
+
+tech
+{
+    background-color: #202020;
+}

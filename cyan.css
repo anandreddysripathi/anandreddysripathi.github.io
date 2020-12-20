@@ -1,0 +1,12 @@
+:root{
+    --maincolor:rgb(0, 107, 150);
+    --secondarycolor:#000000; 
+
+    --bordercolor:#1d1520; 
+
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
+    --themedotborder:#fff; 
+    --previewBg:rgb(29,21,32,0.8);
+    --previewshadow:#202020 ;
+}
